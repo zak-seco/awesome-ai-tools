@@ -388,7 +388,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
-- [ImaginPrompt](https://imaginprompt.com) - A free multilingual AI tool suite to reverse-engineer any image into optimized Midjourney, DALL-E, and Stable Diffusion text prompts.
 
 ## Video
 
