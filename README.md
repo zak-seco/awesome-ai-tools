@@ -307,8 +307,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Image
 
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
-*A free multilingual AI tool suite to reverse-engineer any image into optimized Midjourney, DALL-E, and Stable Diffusion text prompts : [ImaginPrompt](https://imaginprompt.com) 
-
 
 ### Models
 
@@ -405,7 +403,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
-- [ImaginPrompt](https://imaginprompt.com/video-to-prompt) - A free multilingual AI tool suite to reverse-engineer any image into optimized Midjourney, DALL-E, and Stable Diffusion text prompts.
 
 
 ### Animation
