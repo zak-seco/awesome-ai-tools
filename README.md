@@ -360,7 +360,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
-- [ImaginPrompt](https://imaginprompt.com) - A free multilingual AI tool suite to reverse-engineer any image into optimized Midjourney, DALL-E, and Stable Diffusion text prompts.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
